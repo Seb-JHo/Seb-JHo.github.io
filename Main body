@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Seb JHo's website</title>
+  <style>
+    body {background: #f99d1b}
+    body {color: #12354e}
+  </style>
+</head>
+
+
+
+<body>
+  <h1>Introduction</h1>
+  <p>This is my small blog page about baking. As an avid baker, I have nothing revolutionary to add to this art, just hope to share my passion with more people </p>
+  <img src="https://images.pexels.com/photos/37923921/pexels-photo-37923921.jpeg?cs=srgb&dl=pexels-nano-erdozain-120534369-37923921.jpg&fm=jpg&_gl=1*145063j*_ga*MTkzNDI4MTk2MS4xNzkwMzYwMDUy*_ga_8JE65Q40S6*czE3OTAzNjAwNTEkbzEkZzEkdDE3OTAzNjAwNzckajM0JGwwJGgw" alt="croissant dough" style="width=100px;height=250px;">
+  <p>I have been consistently baking for roughly 4 years now, and enjoy making many types of pastries, especially from French and East Asian cuisine. Some of my favorites are croissants, Portuguese egg tarts, and seasame balls.</p>
+  <h2>Goals</h2>
+  <p>I'e been working to improve my theory on flavor and how to compliment flavors, balancing difference aspects such as acidity, sweetness, saltiness, how umami the dish is, and more.</p>
+</body>
+</html>
